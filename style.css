@@ -1,0 +1,28 @@
+
+h2.sub-section{
+	font-style: oblique;
+	font-size: 110%;
+
+}
+
+h1.section{
+	font-weight: bold;
+	font-size: 150%;
+
+}
+
+strong{
+	font-weight: bold;
+}
+
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#name{
+	margin-left: 43%;
+	margin-right: 43%;
+	font-weight:bold;
+	font-size: 120%;
+}
